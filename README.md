@@ -6,8 +6,6 @@ Belajar Dasar Pemrograman Web<br>
 Disusun oleh: Dicoding Indonesia<br>
 Level: Pemula<br>
 
-Kelas ini membahas secara mendalam dasar-dasar HTML dan CSS, yang merupakan fondasi penting dalam pembuatan website. Memahami dasar ini sangat bermanfaat bagi siapa pun yang ingin melanjutkan ke pengembangan web yang lebih lanjut. Materi disusun dengan baik oleh tim ahli Dicoding, sehingga mudah diikuti dan dapat dipercaya.
-
 # Materi yang dipelajari:
 
 - Pendahuluan: Pengenalan dasar tentang website, server dan client, struktur website, serta tools yang dibutuhkan dalam pengembangan halaman website. (40 menit)
